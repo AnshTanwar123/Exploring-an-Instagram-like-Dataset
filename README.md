@@ -1,6 +1,5 @@
 ## Dataset Snapshot
-
-- **Schema Components:**
+**Schema Components:**
   - **Users:** Profiles of individuals on the platform.
   - **Posts:** Images or content shared by users.
   - **Likes:** Expressions of appreciation for posts.
